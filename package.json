@@ -30,7 +30,7 @@
     "pre-commit": "lint-staged"
   },
   "lint-staged": {
-    "*.{js,vue}": [
+    "!(docs/).{js,vue}": [
       "vue-cli-service lint",
       "git add"
     ]
