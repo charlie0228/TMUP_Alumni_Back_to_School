@@ -2,8 +2,8 @@
   <div id="app">
     <el-container>
       <el-header style="height: auto;">
-        <h1>2019 臺北醫學大學藥學系<br>系友回娘家</h1>
-        <img class="banner" src="./assets/banner.png" alt="banner" />
+        <h1>2020 臺北醫學大學藥學系<br>系友回娘家</h1>
+        <!-- <img class="banner" src="./assets/banner.png" alt="banner" /> -->
       </el-header>
       <el-main>
         <el-row type="flex">
