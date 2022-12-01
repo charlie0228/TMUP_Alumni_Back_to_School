@@ -2,7 +2,7 @@
   <div id="app">
     <el-container>
       <el-header style="height: auto;">
-        <h1>2021 臺北醫學大學藥學系<br>系友回娘家</h1>
+        <h1>2022 臺北醫學大學藥學系<br>系友回娘家</h1>
         <img class="banner" src="./assets/banner.jpg" alt="banner" />
       </el-header>
       <el-main>
