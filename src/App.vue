@@ -43,7 +43,7 @@
           empty-text="查無資料"
           style="font-size: 1rem;"
         >
-          <el-table-column
+          <!-- <el-table-column
             prop="grade"
             label="屆別">
           </el-table-column>
@@ -54,14 +54,16 @@
           <el-table-column
             prop="number"
             label="學籍編號">
-          </el-table-column>
+          </el-table-column> -->
           <el-table-column
             prop="name"
-            label="姓名">
+            label="姓名"
+            align="center">
           </el-table-column>
           <el-table-column
             prop="table"
-            label="桌次">
+            label="桌次"
+            align="center">
           </el-table-column>
         </el-table>
       </el-main>
@@ -124,9 +126,7 @@ body {
     }
 
     .banner {
-      @media (max-width: 767px) {
-        width: 100%;
-      }
+      width: 85vw;
     }
   }
 
